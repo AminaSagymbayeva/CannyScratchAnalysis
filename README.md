@@ -1,2 +1,2 @@
 # CannyScratchAnalysis
-This is a project on scratch assay analysis ImageJ plugin based on Canny edge detection method.
+This is a project developing an ImageJ plugin for scratch assay analysis based on the Canny edge detection method.
